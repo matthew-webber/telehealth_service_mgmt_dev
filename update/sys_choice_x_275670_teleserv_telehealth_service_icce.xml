@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="icce" table="x_275670_teleserv_telehealth_service" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>icce</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICCE choice 1</label>
+            <language>en</language>
+            <name>x_275670_teleserv_telehealth_service</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-12 21:22:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af2b1dd6dbd2230027d7fbef2996197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-12 21:22:19</sys_updated_on>
+            <value>icce1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>icce</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ICCE choice 2</label>
+            <language>en</language>
+            <name>x_275670_teleserv_telehealth_service</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-12 21:22:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f04b9192dbd2230027d7fbef29961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-12 21:22:29</sys_updated_on>
+            <value>icce2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>icce</element>
+            <name>x_275670_teleserv_telehealth_service</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-12 21:22:19</sys_created_on>
+            <sys_id>ea3b5192dbd2230027d7fbef29961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>icce</sys_name>
+            <sys_package display_value="Telehealth Service Management" source="x_275670_teleserv">63a65502db42230027d7fbef2996198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telehealth Service Management">63a65502db42230027d7fbef2996198d</sys_scope>
+            <sys_update_name>sys_choice_x_275670_teleserv_telehealth_service_icce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-12 21:22:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
