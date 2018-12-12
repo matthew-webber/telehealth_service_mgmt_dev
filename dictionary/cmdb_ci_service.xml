@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="Business Service" max_length="40" name="cmdb_ci_service" sizeclass="42" type="collection">
+        <element label="Requester" max_length="32" name="x_275670_teleserv_requester" reference="sys_user" type="reference"/>
+        <element label="Service Development Coordinator" max_length="32" name="x_275670_teleserv_service_development_coordinator" reference="sys_user" type="reference"/>
+    </element>
+</database>

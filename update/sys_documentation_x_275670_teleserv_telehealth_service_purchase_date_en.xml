@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="purchase_date" label="Purchased" language="en" table="x_275670_teleserv_telehealth_service">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purchase_date</element>
+            <help/>
+            <hint/>
+            <label>Purchased</label>
+            <language>en</language>
+            <name>x_275670_teleserv_telehealth_service</name>
+            <plural>Purchased</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-12 20:44:40</sys_created_on>
+            <sys_id>4b92dd52dbd2230027d7fbef299619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Purchased</sys_name>
+            <sys_package display_value="Telehealth Service Management" source="x_275670_teleserv">63a65502db42230027d7fbef2996198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telehealth Service Management">63a65502db42230027d7fbef2996198d</sys_scope>
+            <sys_update_name>sys_documentation_x_275670_teleserv_telehealth_service_purchase_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-12 20:44:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
